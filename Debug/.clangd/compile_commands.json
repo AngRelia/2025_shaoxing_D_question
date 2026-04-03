@@ -1,0 +1,67 @@
+[
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/main.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/delay.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/encoder.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/OLED_Data.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/OLED.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/dc_motor.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/key.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/icm42688_driver.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/MahonyAHRS.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/pid.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/grayscale_sensor.c"
+   },
+   {
+      "directory" : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -D__USE_SYSCONFIG__ -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/Debug\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source/third_party/CMSIS/Core/Include\" -I\"D:/ccs20.5/mspm0_sdk_2_10_00_04/source\" -I\"C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c++/v1\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/lib/clang/18/include\" -isystem\"D:/ccs20.5/ccs/tools/compiler/ti-cgt-armllvm_4.0.4.LTS/include/c\" -xc",
+      "file"      : "C:/Users/wcx12/workspace_ccstheia/2025_shaoxing_D_question/icode/Serial.c"
+   }
+]
